@@ -1,0 +1,42 @@
+
+.amar-portfolio { 
+	width:80%;
+	margin:auto; 
+	background-color:gray;
+	padding:10px;
+}
+.amar-portfolio .mix{ 
+	display:none;
+}
+.menu { 
+	
+}
+
+.menu ul{ 
+	list-style:none;
+	text-align:center;
+}
+.menu ul li{ 
+	display:inline-block;
+}
+
+.menu ul li a{ 
+	text-decoration:none; 
+	color:#FFF;
+	font-family:aharoni;
+	padding:10px 20px;
+	display:block;
+}
+.my-port { 
+	text-align:center; 
+}
+.port { 
+	height:200px;
+	width:300px;
+	display:inline-block;
+	border:1px solid #FFF;
+	margin:10px ;
+	font-family:aharoni;
+	color:#FFF;
+	font-size:50px;
+}
